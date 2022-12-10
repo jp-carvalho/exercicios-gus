@@ -25,3 +25,4 @@ console.log(diagonalDifference([
 
   //[arr.length - 1 - index];
   // pega a ultima posição do index e subtrai o valor do index para que rode pelos itens da matriz, 3, 5 e 7.
+
