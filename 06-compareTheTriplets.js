@@ -1,4 +1,4 @@
-// Compare the triplets
+//HackerRank - Compare the triplets
 //https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true
 
 
