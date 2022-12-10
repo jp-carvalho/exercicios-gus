@@ -1,3 +1,5 @@
+//HackerRank - solve me first
+
 function solveMeFirst(a, b) {
   return a + b;  
 }
